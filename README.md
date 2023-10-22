@@ -121,10 +121,4 @@ https://towardsdatascience.com/python-type-hinting-duck-type-compatibility-and-c
 
 [Pandas Project: Make a Gradebook With Python & Pandas](https://realpython.com/pandas-project-gradebook/)
 
-# Fundamentals of Modern Python for Data Analysis Quiz
- 
-
-Total Questions: 40
-
-Duration: 60 minutes 
 
